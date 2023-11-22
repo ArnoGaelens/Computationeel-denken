@@ -1,0 +1,16 @@
+VB examen op toledo
+
+18ptn:
+appinventor:
+	3ptn: Code : wat gebeurt er als je op de knoppen drukt?
+
+Gastcollege:
+
+Python:
+	4ptn: Output reconstrueren door code te bekijken.
+
+OPen vragen:
+	:Oefeningen labo + PDF op toledo
+	5ptn: Practicum beeldverwerking. vb examenvragen. 
+		Sepia beeld? Zal bijstaan hoe.
+		Komt ene beeld voor in ander beeld?
